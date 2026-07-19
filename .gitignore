@@ -1,0 +1,5 @@
+*.f
+*.feather
+*.csv
+.ipynb_checkpoints/
+candidate_public/
